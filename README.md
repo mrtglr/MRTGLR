@@ -6,7 +6,7 @@
 
 ## ⚡ Technologies
 
-![C#]([https://img.shields.io/badge/-C#-black?style=flat-square&logo=C#](https://img.shields.io/badge/c%23-c%23-blue))
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=C#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)

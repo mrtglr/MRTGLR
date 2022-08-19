@@ -1,7 +1,8 @@
+# `Hi`
 
 ![welcome](https://media.giphy.com/media/4lMXdY2r0RnVuiymnS/giphy.gif))
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/halil-mert-guler/](https://www.linkedin.com/in/halil-mert-guler/))]([https://www.linkedin.com/in/halil-mert-guler/](https://www.linkedin.com/in/halil-mert-guler/))
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halil-mert-guler/)](https://www.linkedin.com/in/halil-mert-guler/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/mrtglr?label=follow&style=social)](https://github.com/mrtglr)
 
 ## ⚡ Technologies

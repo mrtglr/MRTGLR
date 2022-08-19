@@ -1,6 +1,5 @@
 
-<img src="https://giphy.com/embed/4lMXdY2r0RnVuiymnS" width="480" height="200" frameBorder="0">
-
+![welcome]([https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif](https://giphy.com/embed/4lMXdY2r0RnVuiymnS))
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halil-mert-g%C3%BCler-ab3a15213/)]([https://www.linkedin.com/in/alpkeskin/](https://www.linkedin.com/in/halil-mert-g%C3%BCler-ab3a15213/))
 [![GitHub Follow Badge](https://img.shields.io/github/followers/mrtglr?label=follow&style=social)](https://github.com/mrtglr)

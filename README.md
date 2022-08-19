@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halil-mert-guler/)](https://www.linkedin.com/in/halil-mert-guler/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/mrtglr?label=follow&style=social)](https://github.com/mrtglr)
 
-## ⚡ Technologies
+## 🌀  Technologies
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)

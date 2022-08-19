@@ -1,6 +1,7 @@
 # Hi
 ![welcome](https://media.giphy.com/media/4lMXdY2r0RnVuiymnS/giphy.gif)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halil-mert-guler/)](https://www.linkedin.com/in/halil-mert-guler/)
+
 [![GitHub Follow Badge](https://img.shields.io/github/followers/mrtglr?label=follow&style=social)](https://github.com/mrtglr)
 
 ## ⚡ Technologies
@@ -12,6 +13,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)

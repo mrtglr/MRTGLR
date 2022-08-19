@@ -1,13 +1,13 @@
 # Hi
-<div align="center">
+<br>
 ![welcome](https://media.giphy.com/media/4lMXdY2r0RnVuiymnS/giphy.gif)
-</div>
-<p align="center">
+<br>
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halil-mert-guler/)](https://www.linkedin.com/in/halil-mert-guler/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/mrtglr?label=follow&style=social)](https://github.com/mrtglr)
-<p>
+<br>
 ## ⚡ Technologies
-<p align="center">
+<br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,9 +21,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-<p>
-
+<br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mrtglr&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtglr&hide=TeX&layout=compact)
-
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrtglr.mrtglr)

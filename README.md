@@ -1,3 +1,4 @@
+<p align="center">
 ![welcome](https://media.giphy.com/media/4lMXdY2r0RnVuiymnS/giphy.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halil-mert-guler/)](https://www.linkedin.com/in/halil-mert-guler/)
@@ -22,3 +23,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mrtglr&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtglr&hide=TeX&layout=compact)
+</p>

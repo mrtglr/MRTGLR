@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/4lMXdY2r0RnVuiymnS/giphy.gif" alt="animated" />
-</p>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halil-mert-guler/)](https://www.linkedin.com/in/halil-mert-guler/)
-[![GitHub Follow Badge](https://img.shields.io/github/followers/mrtglr?label=follow&style=social)](https://github.com/mrtglr)
-  
-## 🌀  Technologies
+
+<!-- <img align="left" src="https://media.giphy.com/media/4lMXdY2r0RnVuiymnS/giphy.gif" alt="animated" /> -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact" alt="mrtglr" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact" alt="mrtglr" />-->
+
+
+## #  Technologies
   
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -18,7 +19,6 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mrtglr&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtglr&hide=TeX&layout=compact)
-  
+![mrtglr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight)
 
+  

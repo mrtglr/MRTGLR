@@ -1,8 +1,15 @@
+### Hi
+<p align="center">
+<img src="https://media.giphy.com/media/zDuStFVpRJIZ2/giphy.gif"
+</p>
 
-<!-- <img align="left" src="https://media.giphy.com/media/4lMXdY2r0RnVuiymnS/giphy.gif" alt="animated" /> -->
-
+  
+  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact" alt="mrtglr" />
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact" alt="mrtglr" />-->
+  
+  
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact" alt="mrtglr" />
 
 
 ## #  Technologies
@@ -19,6 +26,4 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
-![mrtglr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight)
 
-  

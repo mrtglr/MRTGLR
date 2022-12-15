@@ -1,11 +1,11 @@
 ## 🤚 Hi I'm Mert
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact"
+<img src="https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact"
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact"
 </p>
 
 ## 🔗 Also check out:

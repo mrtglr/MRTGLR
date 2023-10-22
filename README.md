@@ -8,13 +8,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mrtglr&show_icons=true&theme=tokyonight&layout=compact"
 </p>
 
-## 🔗 Also check out:
+<!--
+[## 🔗 Also check out:
 
 <p align="center">
 <img src="https://media.giphy.com/media/zDuStFVpRJIZ2/giphy.gif"
-</p>
+</p>](url)
 
 <h1 align="center" style="color:red;"><a href="https://mrtglr.github.io/">mrtglr.github.io</a></h1>
+-->
 
 ## ⚡️  Technologies
 
